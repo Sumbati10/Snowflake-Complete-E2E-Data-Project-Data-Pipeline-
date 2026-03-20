@@ -1,5 +1,8 @@
 # Air Quality (Snowflake End-to-End Data Pipeline)
 
+
+![Air Quality Pipeline Diagram](e2e-project-udemy-v2/07-diagrams/part-01/Part01-Sec03-Diagram-01.png)
+
 This project is an end-to-end **Air Quality** data pipeline built around **Snowflake**.
 
 It:
