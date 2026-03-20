@@ -114,6 +114,11 @@ Important:
 
 Scripts live in `03-streamlit-script/` and are intended to be used with **Streamlit in Snowflake**.
 
+
+![Screenshot](Screenshot%20From%202026-03-19%2022-36-12.png)
+![Screenshot](Screenshot%20From%202026-03-19%2022-39-35.png)
+
+
 Example:
 
 - `03-air-quality-map.py`
